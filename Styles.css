@@ -1,0 +1,22 @@
+body {
+    background-image: url("images/bg.webp");
+}
+h1 {
+    font-size: 125px;
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    margin-top: 20px;
+    color:#47d147;
+}
+#red {
+    color: rgba(233, 3, 3, 0.959);
+}
+
+footer{
+    margin: 0;
+    font-size: 20px;
+    text-align: center;
+    color: #b1eba3;
+}
